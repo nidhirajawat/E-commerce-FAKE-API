@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "//E-commerce-FAKE-API/static/js/main.0fd3cbfc.chunk.js",
+    "main.js.map": "//E-commerce-FAKE-API/static/js/main.0fd3cbfc.chunk.js.map",
+    "runtime-main.js": "//E-commerce-FAKE-API/static/js/runtime-main.d5b862f7.js",
+    "runtime-main.js.map": "//E-commerce-FAKE-API/static/js/runtime-main.d5b862f7.js.map",
+    "static/css/2.09e51b6e.chunk.css": "//E-commerce-FAKE-API/static/css/2.09e51b6e.chunk.css",
+    "static/js/2.c14bf320.chunk.js": "//E-commerce-FAKE-API/static/js/2.c14bf320.chunk.js",
+    "static/js/2.c14bf320.chunk.js.map": "//E-commerce-FAKE-API/static/js/2.c14bf320.chunk.js.map",
+    "static/js/3.6fba3ad1.chunk.js": "//E-commerce-FAKE-API/static/js/3.6fba3ad1.chunk.js",
+    "static/js/3.6fba3ad1.chunk.js.map": "//E-commerce-FAKE-API/static/js/3.6fba3ad1.chunk.js.map",
+    "static/js/4.dc84085a.chunk.js": "//E-commerce-FAKE-API/static/js/4.dc84085a.chunk.js",
+    "static/js/4.dc84085a.chunk.js.map": "//E-commerce-FAKE-API/static/js/4.dc84085a.chunk.js.map",
+    "static/js/5.f5d121a0.chunk.js": "//E-commerce-FAKE-API/static/js/5.f5d121a0.chunk.js",
+    "static/js/5.f5d121a0.chunk.js.map": "//E-commerce-FAKE-API/static/js/5.f5d121a0.chunk.js.map",
+    "static/js/6.c9a640bf.chunk.js": "//E-commerce-FAKE-API/static/js/6.c9a640bf.chunk.js",
+    "static/js/6.c9a640bf.chunk.js.map": "//E-commerce-FAKE-API/static/js/6.c9a640bf.chunk.js.map",
+    "static/js/7.fc7bc47a.chunk.js": "//E-commerce-FAKE-API/static/js/7.fc7bc47a.chunk.js",
+    "static/js/7.fc7bc47a.chunk.js.map": "//E-commerce-FAKE-API/static/js/7.fc7bc47a.chunk.js.map",
+    "static/js/8.db2b5d61.chunk.js": "//E-commerce-FAKE-API/static/js/8.db2b5d61.chunk.js",
+    "static/js/8.db2b5d61.chunk.js.map": "//E-commerce-FAKE-API/static/js/8.db2b5d61.chunk.js.map",
+    "static/js/9.4f8ff801.chunk.js": "//E-commerce-FAKE-API/static/js/9.4f8ff801.chunk.js",
+    "static/js/9.4f8ff801.chunk.js.map": "//E-commerce-FAKE-API/static/js/9.4f8ff801.chunk.js.map",
+    "index.html": "//E-commerce-FAKE-API/index.html",
+    "static/css/2.09e51b6e.chunk.css.map": "//E-commerce-FAKE-API/static/css/2.09e51b6e.chunk.css.map",
+    "static/js/2.c14bf320.chunk.js.LICENSE.txt": "//E-commerce-FAKE-API/static/js/2.c14bf320.chunk.js.LICENSE.txt",
+    "static/media/hero_img2.7d607e48.png": "//E-commerce-FAKE-API/static/media/hero_img2.7d607e48.png",
+    "static/media/index.css": "//E-commerce-FAKE-API/static/media/poppins-latin-ext-400-normal.4f38b433.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b862f7.js",
+    "static/css/2.09e51b6e.chunk.css",
+    "static/js/2.c14bf320.chunk.js",
+    "static/js/main.0fd3cbfc.chunk.js"
+  ]
+}
